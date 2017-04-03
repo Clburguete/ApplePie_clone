@@ -1,0 +1,46 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 100;
+  margin: 0px;
+}
+.general{
+  padding: 0px 70px;
+}
+h2{
+  padding: 15px;
+}
+.header{
+  background-image: url(/Users/carlos/prework/code/labs/lab-css-recipes-clone/starter-code/apple-pie-starter-code/images/apple-pie.jpg);
+  background-size: cover;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  text-align: center;
+  height: auto;
+  width: 100%;
+}
+h1{
+  text-align: center;
+  color: white;
+  font-weight: 200;
+  font-size: 40px;
+  line-height: 450px;
+  margin:0px;
+}
+.intro{
+  margin-top: 25px;
+}
+.tiempos{
+  display: block;
+  width: 300px;
+  float: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.ingredientes{
+  text-align: left;
+
+}
